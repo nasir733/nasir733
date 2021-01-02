@@ -25,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nasirr_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nasirr_dev" height="30" width="40" /></a>
-<a href="https://fb.com/nasiriqbal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nasiriqbal" height="30" width="40" /></a>
-<a href="https://instagram.com/nasirr_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nasirr_dev" height="30" width="40" /></a>
-<a href="https://medium.com/@engnasir733" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@engnasir733" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eliteprogrammer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="eliteprogrammer" height="30" width="40" /></a>
+<a href="https://twitter.com/nasirr_dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="nasirr_dev" height="30" width="40" /></a>
+<a href="https://fb.com/nasiriqbal" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg" alt="nasiriqbal" height="30" width="40" /></a>
+<a href="https://instagram.com/nasirr_dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="nasirr_dev" height="30" width="40" /></a>
+<a href="https://medium.com/@engnasir733" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111502.svg" alt="@engnasir733" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/eliteprogrammer" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="eliteprogrammer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
