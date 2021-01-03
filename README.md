@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nasir733&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nasir733&show_icons=true&hide_border=true&dummy=1234" />
 
 </details>
 <details>
@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasir733&show_icons=true&locale=en&layout=compact" alt="nasir733" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasir733&show_icons=true&locale=en&layout=compact&dummy=1234" alt="nasir733" /></p>
 </details>
 
 
