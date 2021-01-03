@@ -43,7 +43,7 @@
 
 </details>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir733&" alt="nasir733" /></p>
 
 </details>
