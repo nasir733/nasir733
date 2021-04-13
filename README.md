@@ -54,6 +54,13 @@
 
 </details>
 </div>
+## <div align="center"> Visitor count </div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nasir733/count.svg" />
+</p>
+
+<br/>
 <div>
 <details>
   <summary>:zap: Most Used Languages</summary>
