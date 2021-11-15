@@ -23,14 +23,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nasirr_dev" target="blank"><img align="center" src="https://www.flaticon.com/authors/riajulislam" alt="nasirr_dev" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100015388060314" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="nasiriqbal" height="30" width="40" /></a>
 <a href="https://instagram.com/nasirr_dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="nasirr_dev" height="30" width="40" /></a>
 <a href="https://medium.com/@engnasir733" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111502.svg" alt="@engnasir733" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eliteprogrammer" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="eliteprogrammer" height="30" width="40" /></a>
-</p>
+</p> -->
 <div>
 
 <details>
