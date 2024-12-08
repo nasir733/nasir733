@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://www.instagram.com/geeky_nasir/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nasirr_dev" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/geekynasir/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nasirr_dev" /></a> </p>
 
 <p align="left"> <a href="https://www.youtube.com/watch?v=t2MT0R7eni8" target="blank"><img src="https://img.shields.io/youtube/views/n05KN38jNxU?logo=youtube&style=for-the-badge" alt="nasirr_dev" /></a> </p>
 - 🔭 I’m currently working on **FullStackApplication with React and Django**
